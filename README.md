@@ -1,9 +1,10 @@
 # 💫About Me :
-🌱 : I’m currently learning FPT Polytechnic
 
-VN : I'm from Viet Nam
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=198AF7&vCenter=true&random=false&width=440&lines=Hi+everybody.+I'm+Minh+Truong)](https://git.io/typing-svg)
 
-📧 : Contact me at letruong147123@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22D6F7&vCenter=true&random=false&width=440&lines=I+am+a+Front+End+Developer)](https://git.io/typing-svg)
+
+Contact me at letruong147123@gmail.com
 
 
 
