@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&vCenter=true&repeat=false&random=false&width=440&lines=Hi%2C+everybody.+I'm+Minh+Truong)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Minh Truong</h1>
 
 # 💫About Me :
 
