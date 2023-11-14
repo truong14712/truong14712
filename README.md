@@ -1,12 +1,10 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&vCenter=true&repeat=false&random=false&width=440&lines=Hi%2C+everybody.+I'm+Minh+Truong)](https://git.io/typing-svg)
+
 # 💫About Me :
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=198AF7&vCenter=true&random=false&width=440&lines=Hi+everybody.+I'm+Minh+Truong)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=2000&color=3BCDF7&vCenter=true&random=false&width=440&lines=I+am+a+Front+End+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=22D6F7&vCenter=true&random=false&width=440&lines=I+am+a+Front+End+Developer)](https://git.io/typing-svg)
-
-Contact me at letruong147123@gmail.com
-
-
+#### Connect with me: letruong147123@gmail.com
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mintru.03/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mintrudev/) 
